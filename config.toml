@@ -13,7 +13,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "workshop"
   # Git hub repo link
-  editURL = "https://zundoo.github.io/Workshop/"
+  editURL = "https://zundoo.github.io/awss-game-server-workshop/"
   description = ""
   author = "journeyoftheaverageguy@gmail.com"
   showVisitedLinks = true
@@ -54,4 +54,3 @@ name = "<i class='fab fa-facebook'></i> AWS Study Group - Nhóm FB"
 identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
-
