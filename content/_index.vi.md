@@ -14,7 +14,7 @@ Cuối cùng, nếu quá trình xác thực tài khoản của bạn có vấn �
 #### Tài khoản AWS (AWS Account)
 **Tài khoản AWS** là phương tiện để bạn có thể truy cập và sử dụng những tài nguyên và dịch vụ của AWS. Theo mặc định, mỗi tài khoản AWS sẽ có một *root user*. *Root user* có toàn quyền với tài khoản AWS của bạn, và quyền hạn của root user không thể bị giới hạn. Nếu bạn mới sử dụng tài khoản AWS lần đầu tiên, bạn sẽ truy cập vào tài khoản dưới danh nghĩa của *root user*.
 
-![Create Account](/images/1/0001.png?featherlight=false&width=90pc)
+![Create Account](//images/1/0001.png?featherlight=false&width=90pc)
 
 {{% notice note %}}
 Chính vì quyền hạn của **root user** không thể bị giới hạn, AWS khuyên bạn không nên sử dụng trực tiếp *root user* cho bất kỳ công tác nào. Thay vào đó, bạn nên tạo ra một *IAM User* và trao quyền quản trị cho *IAM User* đó để dễ dàng quản lý và giảm thiểu rủi ro.
@@ -36,7 +36,10 @@ Chính vì quyền hạn của **root user** không thể bị giới hạn, AWS
 
 #### Nội dung chính
 
-1. [Tạo tài khoản AWS](1-create-new-aws-account/)
-2. [Thiết lập MFA cho tài khoản AWS (Root)](2-mfa-setup-for-aws-user-(root)/)
-3. [Tài khoản và Nhóm Admin](3-create-admin-user-and-group/)
-4. [Hỗ trợ Xác thực Tài khoản](4-verify-new-account/)
+1. [Worklog](1-Worklog/)
+2. [Proposal](2-Proposal/)
+3. [Event](3-Event/)
+4. [Blogs Posted](4-Blogs-Posted/)
+5. [Workshop](5-Workshop/)
+6. [Self-Assessment](6-Self-Assessment/)
+7. [Sharing and Feedback](7-Sharing-and-Feedback/)

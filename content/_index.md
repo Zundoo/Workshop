@@ -14,7 +14,7 @@ Finally, we will step through account authentication with **AWS Support** in the
 #### AWS Account
 **An AWS account** is the basic container for all the AWS resources you can create as an AWS customer. By default, each AWS account will have a _root user_. The _root user_ has full access within your AWS account, and root user permissions cannot be limited. When you first create your AWS account, you will be assessing it as the _root user_.
 
-![Create Account](/images/1/0001.png?featherlight=false&width=90pc)
+![Create Account](//images/1/0001.png?featherlight=false&width=90pc)
 
 {{% notice note%}}
 As a best practice, do not use the AWS account _root user_ for any task where it's not required. Instead, create a new IAM user for each person that requires administrator access. Thereafter, the users in the administrators user group should set up the user groups, users, and so on, for the AWS account. All future interaction should be through the AWS account's users and their own keys instead of the root user. However, to perform some account and service management tasks, you must log in using the root user credentials.
@@ -39,8 +39,12 @@ Customers who choose AWS Support gain one-on-one, fast-response support from AWS
 
 #### Main Content
 
-1. [Creating a new AWS Account](1-create-new-aws-account/)
-2. [Setting up MFA for the AWS Account root user](2-MFA-Setup-For-AWS-User-(root))
-3. [Creating an Administrator Accounts and Groups](3-create-admin-user-and-group/)
-4. [Getting support for Account Authentication](4-verify-new-account/)
+1. [Worklog](1-Worklog/)
+2. [Proposal](2-Proposal/)
+3. [Event](3-Event/)
+4. [Blogs Posted](4-BlogsPosted/)
+5. [Workshop](5-Workshop/)
+6. [Self-Assessment](6-Self-Assessment/)
+7. [Sharing and Feedback](7-Sharing-and-Feedback/)
+
 <!-- need to remove parenthesis for path in Hugo 0.88.1 for Windows-->
