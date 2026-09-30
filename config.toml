@@ -2,6 +2,7 @@
 baseURL = "https://github.io"
 canonifyURLs = false
 relativeURLs = true
+
 theme = "hugo-theme-learn"
 
 # For search functionality
