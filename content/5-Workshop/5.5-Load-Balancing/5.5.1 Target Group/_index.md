@@ -33,7 +33,7 @@ pre : " <b> 5.5.1 </b> "
    - **Timeout**: 5 seconds
    - **Interval**: 30 seconds
 
-   ![Target Group Health Check Configuration](/awss-game-server-workshop//images/5/5.6/healcheck.png?featherlight=false&width=90pc)
+   ![Target Group Health Check Configuration](/images/5/5.6/healcheck.png?featherlight=false&width=90pc)
 
 4. Review the configuration and click **Create target group**.
 
