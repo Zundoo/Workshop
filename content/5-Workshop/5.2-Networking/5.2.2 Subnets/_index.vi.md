@@ -68,7 +68,7 @@ pre : " <b> 5.2.2 </b> "
    - Chọn từng Public Subnet → **Actions** → **Edit subnet settings**
    - Chọn **Enable auto-assign public IPv4 address** → Save
 
-   ![Enable Auto-assign Public IP]({{< relURL "images//5.2/subnet3.png >}}?featherlight=false&width=90pc)
+   ![Enable Auto-assign Public IP]({{< relURL "images/5.2/subnet3.png >}}?featherlight=false&width=90pc)
 Sau khi hoàn thành, bạn sẽ có 4 subnet như được tổng hợp dưới đây:
 
 | Tên Subnet           | CIDR            | Availability Zone   | Loại    |

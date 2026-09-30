@@ -80,7 +80,7 @@ Create a separate Route Table named `game-private-rt` for the Private Subnets.
 
    Click **Save associations**.
 
-   ![Private Route Table - Subnet Associations]({{< relURL "images//5.2/rtprivate3.png?featherlight=false&width=90pc)
+   ![Private Route Table - Subnet Associations]({{< relURL "images/5.2/rtprivate3.png?featherlight=false&width=90pc)
 After completing the configuration:
 
 - Public Subnets use `game-public-rt` → traffic goes out via **Internet Gateway**.
