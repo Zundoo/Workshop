@@ -17,7 +17,7 @@ Bài kiểm thử mô phỏng tình huống số lượng người dùng tăng �
 ## Cấu hình kiểm thử
 
 Các thông số của bài kiểm thử:
-![cloudlog](/Workshop/images/5/5.8/cloudlog2.png?featherlight=false&width=90pc)
+![cloudlog](./images/5/5.8/cloudlog2.png?featherlight=false&width=90pc)
 
 | Thông số | Giá trị |
 |---|---:|
