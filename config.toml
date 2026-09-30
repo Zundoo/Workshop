@@ -1,5 +1,5 @@
 # Change the default theme to be use when building the site with Hugo
-baseURL = "https://github.io"
+baseURL = "https://zundoo.github.io/Workshop/"
 
 theme = "hugo-theme-learn"
 
