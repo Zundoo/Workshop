@@ -35,7 +35,7 @@ pre : " <b> 5.4.1 </b> "
    - **Public access**: **No**
    - **VPC security group**: Chọn security group có sẵn → `sg-rds`
 
-   ![RDS Connectivity Configuration](/Workshop/images/5/5.4/rdsconfic.png?featherlight=false&width=90pc)
+   ![RDS Connectivity Configuration](/Workshop/images/5/5.4/rdsconfic.png)
 
 6. Cấu hình các thiết lập bổ sung (tùy chọn):
 
@@ -44,7 +44,7 @@ pre : " <b> 5.4.1 </b> "
 
 7. Nhấn **Create database**.
 
-   ![Create RDS Database](/Workshop/images/5/5.4/rds2.png?featherlight=false&width=90pc)
+   ![Create RDS Database](/Workshop/images/5/5.4/rds2.png)
 8. Chờ cho đến khi trạng thái chuyển sang **Available** (thường mất khoảng 5–10 phút).
 
 9. Sao chép **Endpoint** để sử dụng ở các bước sau (ví dụ):

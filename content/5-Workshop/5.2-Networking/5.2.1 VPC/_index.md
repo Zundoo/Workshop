@@ -26,4 +26,4 @@ pre : " <b> 5.2.1 </b> "
 
 3. Click **Create VPC**.
 
-   ![VPC Created](/Workshop/images/5/5.2/vpc3.png)
+   ![VPC Created](/Workshop/images/5/5.1/vpc3.png)
