@@ -1,7 +1,7 @@
 ---
 title : "VPC"
 date : "`r Sys.Date()`"
-weight : 1
+weight : 2
 chapter : false
 pre : " <b> 5.2.1 </b> "
 ---
@@ -14,7 +14,7 @@ pre : " <b> 5.2.1 </b> "
 
 1. Truy cập giao diện **VPC Console** > chọn **Your VPCs** > nhấn **Create VPC**.
 
-![VPC Console](./images/5/5.1/conVPC.png?featherlight=false&width=90pc)
+![VPC Console]({{< relURL "images/5.1/conVPC.png >}}?featherlight=false&width=90pc)
 
 2. Cấu hình các thông số:
 
@@ -23,8 +23,8 @@ pre : " <b> 5.2.1 </b> "
    - **IPv4 CIDR block**: `10.0.0.0/16` (Cung cấp tối đa 65.536 địa chỉ IP 
    nội bộ).
 
-![Create VPC Configuration](./images/5/5.1/vpc2.png?featherlight=false&width=90pc)
+![Create VPC Configuration]({{< relURL "images/5.1/vpc2.png >}}?featherlight=false&width=90pc)
 
 3. Nhấn **Create VPC**.
 
-![VPC Created](./images/5/5.1/vpc3.png?featherlight=false&width=90pc)
+![VPC Created]({{< relURL "images/5.1/vpc3.png >}}?featherlight=false&width=90pc)
