@@ -21,7 +21,7 @@ Tạo một Route Table có tên `game-public-rt` dành cho các Public Subnets.
    - **Name**: `game-public-rt`
    - **VPC**: `game-server-vpc`
 
-   ![Creating Public Route Table](ight=false&width=90pc)
+   ![Creating Public Route Table](/Workshop/images/5/5.2/rtpublic.png)
 
 3. Chọn `game-public-rt` > mở tab **Routes** > nhấn **Edit routes**.
 
