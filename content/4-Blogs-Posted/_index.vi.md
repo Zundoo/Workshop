@@ -1,9 +1,9 @@
 ---
 title : "Blog Posted"
 date : "`r Sys.Date()`"
-weight : 12
+weight : 4
 chapter : false
-pre : " <b> 12 </b> "
+pre : " <b> 4 </b> "
 ---
 
 # Blog Posted

@@ -1,9 +1,9 @@
 ---
 title : "Sharing and Feedback"
 date : "`r Sys.Date()`"
-weight : 11
+weight : 7
 chapter : false
-pre : " <b> 11 </b> "
+pre : " <b> 7 </b> "
 ---
 
 # Sharing and Feedback
