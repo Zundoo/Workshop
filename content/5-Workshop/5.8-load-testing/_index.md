@@ -1,9 +1,9 @@
 ---
 title : "Load Testing"
 date : "`r Sys.Date()`"
-weight : 6
+weight : 8
 chapter : false
-pre : " <b> 5.2.6 </b> "
+pre : " <b> 5.8 </b> "
 ---
 
 ## Load Testing

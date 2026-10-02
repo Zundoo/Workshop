@@ -14,7 +14,7 @@ pre : " <b> 5.2.1 </b> "
 
 1. Truy cập giao diện **VPC Console** > chọn **Your VPCs** > nhấn **Create VPC**.
 
-![VPC Console](/Workshop/images/5/5.1/conVPC.png)
+![VPC Console](/Workshop/images/5/5.2/conVPC.png)
 
 2. Cấu hình các thông số:
 
@@ -23,8 +23,8 @@ pre : " <b> 5.2.1 </b> "
    - **IPv4 CIDR block**: `10.0.0.0/16` (Cung cấp tối đa 65.536 địa chỉ IP 
    nội bộ).
 
-![Create VPC Configuration](/Workshop/images/5/5.1/vpc2.png)
+![Create VPC Configuration](/Workshop/images/5/5.2/vpc2.png)
 
 3. Nhấn **Create VPC**.
 
-![VPC Created](/Workshop/images/5/5.1/vpc3.png)
+![VPC Created](/Workshop/images/5/5.2/vpc3.png)

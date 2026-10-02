@@ -1,9 +1,9 @@
 ---
 title : "Load Testing"
 date : "`r Sys.Date()`"
-weight : 6
+weight : 8
 chapter : false
-pre : " <b> 5.2.6 </b> "
+pre : " <b> 5.8 </b> "
 ---
 
 ## Load Testing
@@ -37,7 +37,7 @@ Quy trình thực hiện bài kiểm thử tải được tiến hành theo các
 1. Thực thi câu lệnh chạy kịch bản Artillery từ máy phát tải hướng thẳng mục tiêu về DNS Name của ALB (`:/amazonaws.com`).
 2. Trong quá trình chạy test, truy cập vào giao diện quản trị **EC2 > Load Balancers > alb-game-server**, chọn tab **Monitoring** để theo dõi trực tiếp các chỉ số thời gian thực.
 
-![Giám sát các chỉ số thời gian thực của Load Balancer tại tab Monitoring](/Workshop/images/5/5.6/testalb.png >}})
+![Giám sát các chỉ số thời gian thực của Load Balancer tại tab Monitoring](/Workshop/images/5/5.6/testalb.png)
 
 3. Song song với đó, truy cập vào **CloudWatch > Log management > /aws/gameserver/logs > game-server-stream** để xác nhận máy chủ nhận được dữ liệu.
 
