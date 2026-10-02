@@ -16,7 +16,6 @@ Workshop sử dụng hệ sinh thái **Amazon Web Services (AWS)** kết hợp v
 
 ![Sơ đồ kiến trúc AWS Game Server tổng thể](/Workshop/images/5/Architecture.png)
 
-{{% notice info %}}
 
 **Lưu ý về bảo mật:**
 
@@ -24,7 +23,6 @@ Hạ tầng được thiết kế theo mô hình **3-Tier Architecture** nhằm 
 
 Các tài nguyên cần truy cập từ Internet được đặt trong Public Subnets, trong khi Application và Database Resources được cô lập trong Private Subnets.
 
-{{% /notice %}}
 
 #### Các dịch vụ AWS chính
 

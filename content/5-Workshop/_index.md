@@ -22,8 +22,6 @@ The infrastructure follows a **3-Tier Architecture** to separate the public acce
 
 Public-facing resources are placed in Public Subnets, while application and database resources are isolated within Private Subnets.
 
-{{% /notice %}}
-
 #### Core AWS Services
 
 - **Amazon VPC**: Building an isolated virtual network, configuring subnets, route tables, and network security.
